@@ -1,0 +1,15 @@
+{
+  "name": "formbuilder",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm start",
+    "install-frontend": "cd frontend && npm install"
+  },
+  "dependencies": {
+    "mongodb": "^6.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "bcryptjs": "^2.4.3"
+  }
+}
